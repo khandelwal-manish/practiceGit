@@ -1,3 +1,7 @@
 Learning session
 Get committed, now another commit to plan
+<<<<<<< HEAD
 After create branch
+=======
+Added branch
+>>>>>>> bpractice
